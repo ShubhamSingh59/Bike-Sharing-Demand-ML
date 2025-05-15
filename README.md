@@ -1,0 +1,2 @@
+Bike Sharing Demand
+This dataset consists of the number of public bikes rented in Seoul's bike sharing system at each hour. It also includes information about the weather and the time, such as whether it was a public holiday.
